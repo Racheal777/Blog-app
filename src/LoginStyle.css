@@ -1,0 +1,36 @@
+/* .auth{
+    background-image: url("./images/travel111.jpg");
+    background-size: cover;
+    background-position: center;
+    height: 400px;
+
+
+} */
+
+
+
+.text-center{
+    text-align: center;
+}
+
+.world {
+    font-weight: 700;
+    margin: 30px 0;
+}
+
+input{
+    font-size: 1.2em;
+    margin: 10px 0;
+}
+ 
+button{
+    font-size: 1.2em;
+    margin-bottom: 10px;
+    padding: 5px;
+    background-color: yellowgreen;
+}
+
+.babe{
+    font-weight: 500;
+    font-size: 1.2em;
+}

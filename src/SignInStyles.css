@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+
+.me {
+    font-weight: 500;
+    font-size: 1.2em;
+}
+
+.sea {
+    font-weight: 500;
+    font-size: 1.2em;
+}
+.the {
+    color: red;
+    text-align: center;
+    font-family: Roboto;
+}
+

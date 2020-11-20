@@ -1,0 +1,14 @@
+.air {
+    font-size: larger;
+    font-weight: bold;
+    color: rgb(1, 1, 7);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    /* background: url(./images/travel2.jpg) no-repeat center center fixed;  */
+    background-size: cover;
+    background-color: rgb(204, 220, 230);
+    width: 100vw;
+    height:100vh;
+    
+    /* padding-top: 0.5px; */
+}
